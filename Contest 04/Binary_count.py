@@ -8,7 +8,7 @@ Test Case 0: input: 13  output: 3
 Test Case 1: input: 0   output: 0
 Test Case 2: input: 255  output: 8
 Test Case 3: input: 1023   output: 10
-Test Case 4: input: 16 output: 
+
 
 
 """
